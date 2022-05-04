@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qvi34WDMSCGOeqw0ukZ/0oHSeUKUPdw5bjifvo2jKonULpuiB2IJo5d09Yu90CTpS08AJdFiDqhbzXOhf9/ypg==",
+  "success": true,
+  "projectFilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/Rps.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramenimo/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

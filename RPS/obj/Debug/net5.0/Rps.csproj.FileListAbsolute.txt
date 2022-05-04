@@ -1,0 +1,16 @@
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/Rps.csproj.AssemblyReference.cache
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/Rps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/Rps.AssemblyInfoInputs.cache
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/Rps.AssemblyInfo.cs
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/Rps.csproj.CoreCompileInputs.cache
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/bin/Debug/net5.0/Rps.deps.json
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/bin/Debug/net5.0/Rps.dll
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/bin/Debug/net5.0/Rps.pdb
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/Rps.dll
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/refint/Rps.dll
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/Rps.pdb
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/ref/Rps.dll
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/bin/Debug/net5.0/Rps
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/bin/Debug/net5.0/Rps.runtimeconfig.json
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/bin/Debug/net5.0/Rps.runtimeconfig.dev.json
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/RPS.Solotions/RPS/obj/Debug/net5.0/Rps.genruntimeconfig.cache
